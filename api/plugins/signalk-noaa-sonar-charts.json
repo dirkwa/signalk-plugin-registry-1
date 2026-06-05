@@ -1,0 +1,46 @@
+{
+  "name": "signalk-noaa-sonar-charts",
+  "versions": {
+    "1.1.1": {
+      "server@stable": {
+        "tested": "2026-06-02T06:26:22.563Z",
+        "triggered_by": "plugin_version_change",
+        "node_version": "24",
+        "server_version": "2.27.0",
+        "installs": true,
+        "loads": false,
+        "load_error": "Could not load the \"sharp\" module using the linux-x64 runtime\nERR_DLOPEN_FAILED: /tmp/sk-registry-RRr5xz/node_modules/@img/sharp-linux-x64/lib/sharp-linux-x64.node: failed to map segment from shared object\nPossible solutions:\n- Ensure optional dependencies can be installed:\n    npm install --include=optional sharp\n- Ensure your package manager supports multi-platform installation:\n    See https://sharp.pixelplumbing.com/install#cross-platform\n- Add platform-specific dependencies:\n    npm install --os=linux --cpu=x64 sharp\n- Consult the installation documentation:\n    See https://sharp.pixelplumbing.com/install",
+        "activates": false,
+        "activates_without_config": false,
+        "detected_providers": [],
+        "unstubbed_accesses": [],
+        "has_schema": false,
+        "has_own_tests": false,
+        "own_tests_pass": false,
+        "tests_runnable": false,
+        "has_install_scripts": true,
+        "has_changelog": false,
+        "has_screenshots": false,
+        "audit_critical": 0,
+        "audit_high": 0,
+        "audit_moderate": 0,
+        "composite": 20,
+        "badges": [
+          "compatible",
+          "npm-audit-ok",
+          "no-plugin-ci"
+        ],
+        "test_status": "none"
+      }
+    }
+  },
+  "stars": 0,
+  "open_issues": 0,
+  "contributors": 1,
+  "github_url": "https://github.com/joelkoz/signalk-noaa-sonar-charts",
+  "plugin_ci": {
+    "status": "no-run",
+    "head_sha": "ae22d183f6eccaef5faaf3c8355487012f982f08",
+    "commit_url": "https://github.com/joelkoz/signalk-noaa-sonar-charts/commit/ae22d183f6eccaef5faaf3c8355487012f982f08"
+  }
+}

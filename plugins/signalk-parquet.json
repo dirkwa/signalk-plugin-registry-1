@@ -1,0 +1,113 @@
+{
+  "name": "signalk-parquet",
+  "versions": {
+    "0.7.15": {
+      "server@stable": {
+        "tested": "2026-03-30T22:02:33.131Z",
+        "triggered_by": "manual",
+        "node_version": "24",
+        "server_version": "2.24.0",
+        "installs": true,
+        "loads": true,
+        "activates": true,
+        "detected_providers": [
+          "history"
+        ],
+        "unstubbed_accesses": [
+          "get",
+          "unregisterHistoryApiProvider"
+        ],
+        "has_schema": true,
+        "has_own_tests": false,
+        "own_tests_pass": false,
+        "tests_runnable": false,
+        "has_install_scripts": false,
+        "audit_critical": 0,
+        "audit_high": 0,
+        "audit_moderate": 0,
+        "composite": 65,
+        "badges": [
+          "compatible",
+          "loads",
+          "activates",
+          "has-providers",
+          "npm-audit-ok",
+          "no-plugin-ci"
+        ],
+        "test_status": "none"
+      }
+    },
+    "0.7.30": {
+      "server@stable": {
+        "tested": "2026-05-25T06:16:32.837Z",
+        "triggered_by": "stale",
+        "node_version": "24",
+        "server_version": "2.27.0",
+        "installs": true,
+        "loads": false,
+        "load_error": "/tmp/sk-registry-tjd7NJ/node_modules/@duckdb/node-bindings-linux-x64/duckdb.node: failed to map segment from shared object",
+        "activates": false,
+        "activates_without_config": false,
+        "detected_providers": [],
+        "unstubbed_accesses": [],
+        "has_schema": false,
+        "has_own_tests": false,
+        "own_tests_pass": false,
+        "tests_runnable": false,
+        "has_install_scripts": false,
+        "has_changelog": false,
+        "has_screenshots": false,
+        "audit_critical": 0,
+        "audit_high": 3,
+        "audit_moderate": 0,
+        "composite": 10,
+        "badges": [
+          "compatible",
+          "audit-high",
+          "no-plugin-ci"
+        ],
+        "test_status": "none"
+      }
+    },
+    "0.7.40": {
+      "server@stable": {
+        "tested": "2026-06-02T06:25:54.865Z",
+        "triggered_by": "stale",
+        "node_version": "24",
+        "server_version": "2.27.0",
+        "installs": true,
+        "loads": false,
+        "load_error": "/tmp/sk-registry-V2NsZn/node_modules/@duckdb/node-bindings-linux-x64/duckdb.node: failed to map segment from shared object",
+        "activates": false,
+        "activates_without_config": false,
+        "detected_providers": [],
+        "unstubbed_accesses": [],
+        "has_schema": false,
+        "has_own_tests": false,
+        "own_tests_pass": false,
+        "tests_runnable": false,
+        "has_install_scripts": false,
+        "has_changelog": false,
+        "has_screenshots": false,
+        "audit_critical": 0,
+        "audit_high": 3,
+        "audit_moderate": 0,
+        "composite": 10,
+        "badges": [
+          "compatible",
+          "audit-high",
+          "no-plugin-ci"
+        ],
+        "test_status": "none"
+      }
+    }
+  },
+  "stars": 2,
+  "open_issues": 8,
+  "contributors": 4,
+  "downloads_per_week": 134,
+  "github_url": "https://github.com/motamman/signalk-parquet",
+  "plugin_ci": {
+    "status": "no-githead"
+  }
+}
