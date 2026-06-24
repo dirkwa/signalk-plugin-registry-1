@@ -28,6 +28,15 @@ on:
         description: 'Issue number to report the result back to (on-demand re-score only)'
         required: false
 
+# Coalesce duplicate on-demand scans of the SAME plugin: opening several
+# rescore issues for one package must not fan out into parallel runs of that
+# plugin's untrusted code. single_plugin dispatches for a given plugin share a
+# group and queue (cancel-in-progress: false); the scheduled nightly and
+# all_plugins runs keep their own lanes so a rescan never blocks or cancels them.
+concurrency:
+  group: nightly-${{ github.event_name }}-${{ github.event.inputs.mode || 'schedule' }}-${{ github.event.inputs.plugin || 'all' }}
+  cancel-in-progress: false
+
 jobs:
   # ─────────────────────────────────────────────────────────────
   # JOB 1: Plan — reads registry, no secrets needed
