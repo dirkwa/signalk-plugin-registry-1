@@ -1,0 +1,312 @@
+{
+  "name": "signalk-espos-hmi-designer",
+  "versions": {
+    "0.3.0-beta.2": {
+      "server@stable": {
+        "tested": "2026-10-10T08:19:56.138Z",
+        "triggered_by": "plugin_version_change",
+        "node_version": "24",
+        "server_version": "2.33.0",
+        "installs": true,
+        "loads": true,
+        "activates": true,
+        "activates_without_config": true,
+        "detected_providers": [],
+        "unstubbed_accesses": [],
+        "has_schema": true,
+        "has_own_tests": true,
+        "own_tests_pass": false,
+        "tests_runnable": false,
+        "has_install_scripts": false,
+        "has_changelog": true,
+        "has_screenshots": false,
+        "held_back_core_deps": [],
+        "legacy_deps": [],
+        "audit_critical": 0,
+        "audit_high": 0,
+        "audit_moderate": 0,
+        "composite": 70,
+        "badges": [
+          "compatible",
+          "loads",
+          "activates",
+          "npm-audit-ok",
+          "has-changelog"
+        ],
+        "test_status": "not-runnable"
+      }
+    },
+    "0.3.0": {
+      "server@stable": {
+        "tested": "2026-10-25T07:31:30.611Z",
+        "triggered_by": "server_version_change",
+        "node_version": "24",
+        "server_version": "2.35.1",
+        "installs": true,
+        "loads": true,
+        "activates": true,
+        "activates_without_config": true,
+        "detected_providers": [],
+        "unstubbed_accesses": [],
+        "has_schema": true,
+        "has_own_tests": true,
+        "own_tests_pass": false,
+        "tests_runnable": false,
+        "has_install_scripts": false,
+        "has_changelog": true,
+        "has_screenshots": false,
+        "held_back_core_deps": [],
+        "legacy_deps": [],
+        "audit_critical": 0,
+        "audit_high": 0,
+        "audit_moderate": 0,
+        "composite": 70,
+        "badges": [
+          "compatible",
+          "loads",
+          "activates",
+          "npm-audit-ok",
+          "has-changelog"
+        ],
+        "test_status": "not-runnable"
+      }
+    },
+    "0.4.0": {
+      "server@stable": {
+        "tested": "2026-11-09T09:34:20.902Z",
+        "triggered_by": "server_version_change",
+        "node_version": "24",
+        "server_version": "2.37.0",
+        "installs": true,
+        "loads": true,
+        "activates": true,
+        "activates_without_config": true,
+        "detected_providers": [],
+        "unstubbed_accesses": [],
+        "has_schema": true,
+        "has_own_tests": true,
+        "own_tests_pass": false,
+        "tests_runnable": false,
+        "has_install_scripts": false,
+        "has_changelog": true,
+        "has_screenshots": false,
+        "held_back_core_deps": [],
+        "legacy_deps": [],
+        "audit_critical": 0,
+        "audit_high": 0,
+        "audit_moderate": 0,
+        "composite": 70,
+        "badges": [
+          "compatible",
+          "loads",
+          "activates",
+          "npm-audit-ok",
+          "has-changelog"
+        ],
+        "test_status": "not-runnable"
+      }
+    },
+    "0.5.0": {
+      "server@stable": {
+        "tested": "2026-11-11T09:08:32.301Z",
+        "triggered_by": "plugin_version_change",
+        "node_version": "24",
+        "server_version": "2.37.0",
+        "installs": true,
+        "loads": true,
+        "activates": true,
+        "activates_without_config": true,
+        "detected_providers": [],
+        "unstubbed_accesses": [],
+        "has_schema": true,
+        "has_own_tests": true,
+        "own_tests_pass": false,
+        "tests_runnable": false,
+        "has_install_scripts": false,
+        "has_changelog": true,
+        "has_screenshots": false,
+        "held_back_core_deps": [],
+        "legacy_deps": [],
+        "audit_critical": 0,
+        "audit_high": 0,
+        "audit_moderate": 0,
+        "composite": 70,
+        "badges": [
+          "compatible",
+          "loads",
+          "activates",
+          "npm-audit-ok",
+          "has-changelog"
+        ],
+        "test_status": "not-runnable"
+      }
+    },
+    "0.6.0": {
+      "server@stable": {
+        "tested": "2026-11-12T09:35:43.167Z",
+        "triggered_by": "plugin_version_change",
+        "node_version": "24",
+        "server_version": "2.37.0",
+        "installs": true,
+        "loads": true,
+        "activates": true,
+        "activates_without_config": true,
+        "detected_providers": [],
+        "unstubbed_accesses": [],
+        "has_schema": true,
+        "has_own_tests": true,
+        "own_tests_pass": false,
+        "tests_runnable": false,
+        "has_install_scripts": false,
+        "has_changelog": true,
+        "has_screenshots": false,
+        "held_back_core_deps": [],
+        "legacy_deps": [],
+        "audit_critical": 0,
+        "audit_high": 0,
+        "audit_moderate": 0,
+        "composite": 70,
+        "badges": [
+          "compatible",
+          "loads",
+          "activates",
+          "npm-audit-ok",
+          "has-changelog"
+        ],
+        "test_status": "not-runnable"
+      }
+    },
+    "0.6.1": {
+      "server@stable": {
+        "tested": "2026-11-13T09:22:30.253Z",
+        "triggered_by": "plugin_version_change",
+        "node_version": "24",
+        "server_version": "2.37.0",
+        "installs": true,
+        "loads": true,
+        "activates": true,
+        "activates_without_config": true,
+        "detected_providers": [],
+        "unstubbed_accesses": [],
+        "has_schema": true,
+        "has_own_tests": true,
+        "own_tests_pass": false,
+        "tests_runnable": false,
+        "has_install_scripts": false,
+        "has_changelog": true,
+        "has_screenshots": false,
+        "held_back_core_deps": [],
+        "legacy_deps": [],
+        "audit_critical": 0,
+        "audit_high": 0,
+        "audit_moderate": 0,
+        "composite": 70,
+        "badges": [
+          "compatible",
+          "loads",
+          "activates",
+          "npm-audit-ok",
+          "has-changelog"
+        ],
+        "test_status": "not-runnable"
+      }
+    },
+    "0.7.0": {
+      "server@stable": {
+        "tested": "2026-11-14T08:49:45.442Z",
+        "triggered_by": "plugin_version_change",
+        "node_version": "24",
+        "server_version": "2.37.0",
+        "installs": true,
+        "loads": true,
+        "activates": true,
+        "activates_without_config": true,
+        "detected_providers": [],
+        "unstubbed_accesses": [],
+        "has_schema": true,
+        "has_own_tests": true,
+        "own_tests_pass": false,
+        "tests_runnable": false,
+        "has_install_scripts": false,
+        "has_changelog": true,
+        "has_screenshots": false,
+        "held_back_core_deps": [],
+        "legacy_deps": [],
+        "audit_critical": 0,
+        "audit_high": 0,
+        "audit_moderate": 0,
+        "composite": 70,
+        "badges": [
+          "compatible",
+          "loads",
+          "activates",
+          "npm-audit-ok",
+          "has-changelog"
+        ],
+        "test_status": "not-runnable"
+      }
+    }
+  },
+  "stars": 2,
+  "open_issues": 2,
+  "contributors": 5,
+  "github_url": "https://github.com/signalk-espOS/signalk-espos-hmi-designer",
+  "plugin_ci": {
+    "status": "ok",
+    "head_sha": "d0fe70feda16642ac231572a5fa42f2d5ca5b656",
+    "commit_url": "https://github.com/signalk-espOS/signalk-espos-hmi-designer/commit/d0fe70feda16642ac231572a5fa42f2d5ca5b656",
+    "workflow_run_url": "https://github.com/signalk-espOS/signalk-espos-hmi-designer/actions/runs/43571498164",
+    "tested_at": "2026-11-14T07:34:15Z",
+    "workflow_ref": "refs/heads/master",
+    "jobs": [
+      {
+        "platform": "windows",
+        "node": 24,
+        "conclusion": "success",
+        "job_url": "https://github.com/signalk-espOS/signalk-espos-hmi-designer/actions/runs/43571498164/job/132376915724"
+      },
+      {
+        "platform": "linux-arm64",
+        "node": 24,
+        "conclusion": "success",
+        "job_url": "https://github.com/signalk-espOS/signalk-espos-hmi-designer/actions/runs/43571498164/job/132376915728"
+      },
+      {
+        "platform": "macos",
+        "node": 24,
+        "conclusion": "success",
+        "job_url": "https://github.com/signalk-espOS/signalk-espos-hmi-designer/actions/runs/43571498164/job/132376915743"
+      },
+      {
+        "platform": "macos",
+        "node": 26,
+        "conclusion": "success",
+        "job_url": "https://github.com/signalk-espOS/signalk-espos-hmi-designer/actions/runs/43571498164/job/132376915759"
+      },
+      {
+        "platform": "linux-arm64",
+        "node": 26,
+        "conclusion": "success",
+        "job_url": "https://github.com/signalk-espOS/signalk-espos-hmi-designer/actions/runs/43571498164/job/132376915760"
+      },
+      {
+        "platform": "windows",
+        "node": 26,
+        "conclusion": "success",
+        "job_url": "https://github.com/signalk-espOS/signalk-espos-hmi-designer/actions/runs/43571498164/job/132376915783"
+      },
+      {
+        "platform": "linux-x64",
+        "node": 26,
+        "conclusion": "success",
+        "job_url": "https://github.com/signalk-espOS/signalk-espos-hmi-designer/actions/runs/43571498164/job/132376915791"
+      },
+      {
+        "platform": "linux-x64",
+        "node": 24,
+        "conclusion": "success",
+        "job_url": "https://github.com/signalk-espOS/signalk-espos-hmi-designer/actions/runs/43571498164/job/132376915826"
+      }
+    ]
+  }
+}
