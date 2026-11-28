@@ -1,0 +1,51 @@
+{
+  "name": "signalk-history-explorer",
+  "versions": {
+    "0.2.12": {
+      "server@stable": {
+        "tested": "2026-11-15T09:06:50.779Z",
+        "triggered_by": "stale",
+        "node_version": "24",
+        "server_version": "2.37.0",
+        "installs": true,
+        "loads": true,
+        "activates": true,
+        "activates_without_config": true,
+        "detected_providers": [],
+        "unstubbed_accesses": [],
+        "has_schema": true,
+        "has_own_tests": true,
+        "own_tests_pass": true,
+        "tests_runnable": true,
+        "has_install_scripts": false,
+        "has_changelog": true,
+        "has_screenshots": false,
+        "held_back_core_deps": [],
+        "legacy_deps": [],
+        "audit_critical": 0,
+        "audit_high": 0,
+        "audit_moderate": 0,
+        "composite": 85,
+        "badges": [
+          "compatible",
+          "loads",
+          "activates",
+          "tested",
+          "npm-audit-ok",
+          "has-changelog",
+          "no-plugin-ci"
+        ],
+        "test_status": "passing"
+      }
+    }
+  },
+  "stars": 1,
+  "open_issues": 0,
+  "contributors": 1,
+  "github_url": "https://github.com/macjl/signalk-history-explorer",
+  "plugin_ci": {
+    "status": "no-plugin-ci",
+    "head_sha": "4fedea21c60f04947400a59edb64e8bc089ee566",
+    "workflow_run_url": "https://github.com/macjl/signalk-history-explorer/actions/runs/46076368970"
+  }
+}
